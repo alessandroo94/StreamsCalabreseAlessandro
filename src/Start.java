@@ -37,7 +37,6 @@ public class Start {
         }catch (Exception e){
             System.out.println("Unable to write to file");
             e.printStackTrace();
-            return;
         }
     }
 }
